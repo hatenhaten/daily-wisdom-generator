@@ -1,4 +1,4 @@
-# daily-wisdom-generator
+# Daily Wisdom Generator
 
 After watching my lists of daily wisdom grow and grow I decided it was time to use code to come up with neat way to consolidate my daily mantras into a more digestible format for daily consumption.
 
